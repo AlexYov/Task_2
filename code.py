@@ -1,7 +1,5 @@
 from random import choice
 
-#задача https://codeforces.com/gym/102791/problem/A
-
 n = int(input())
 
 r = int(input())
